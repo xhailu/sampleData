@@ -1,0 +1,133 @@
+Employee ID,Employee,# of Terminations,Manager ID,Hire Date,Tenure in Months,Job ID,Job Level Code,Termination Date,Termination Month,Termination Week,Termination Department,Termination Type,Termination Reason,Location Country
+E1305,"Raul, Wilder",1,E104,8/9/2013,19.6,IT_PROG,PROG,3/26/2015,1-Mar-15,13,IT,Resigned,Policy Issues,UK
+E1306,"Shah Rukh, Field",1,E1041,3/1/2013,23.2,IT_PROG,PROG,1/26/2015,1-Jan-15,5,IT,Resigned,Other,UK
+E1307,"Sally, Bogart",1,E1041,6/14/2013,21.1,IT_PROG,PROG,3/18/2015,1-Mar-15,12,IT,Resigned,Other,UK
+E1308,"Bruce, Bates",1,E1041,5/4/2013,27.8,IT_PROG,PROG,2/25/2015,1-Feb-15,9,IT,Resigned,Compensation,UK
+E1309,"Brooke, Shepherd",1,E1041,6/10/2012,20.7,IT_PROG,PROG,3/2/2014,1-Mar-14,5,IT,Resigned,Career Progression,France
+E1310,"Ben, Niro",1,E103,9/1/2013,17.6,FI_MGR,MGR,2/18/2015,1-Feb-15,8,Finance & Admin,Retirement,Career Progression,UK
+E1311,"Emmet, Walken",1,E1046,5/16/2010,36.9,FI_ACCOUNT,ACCOUNT,10/23/2014,1-Oct-14,13,Finance & Admin,Retirement,Other,France
+E1312,"Ellen, Palin",1,E462,7/30/2013,19.3,SA_REP,REP,3/9/2015,1-Mar-15,11,Service,Resigned,Career Progression,UK
+E1313,"Denholm, Sydow",1,E1046,4/15/2013,22,FI_ACCOUNT,ACCOUNT,2/13/2015,1-Feb-15,7,Finance & Admin,Resigned,Career Progression,UK
+E1314,"Ellen, Khan",1,E462,10/16/2013,15.3,SA_REP,REP,1/25/2015,1-Jan-15,5,Service,Resigned,Career Progression,UK
+E1315,"Emmet, Garcia",1,E1046,8/17/2010,35.9,FI_ACCOUNT,ACCOUNT,1/20/2015,1-Jan-15,4,Finance & Admin,Retirement,Other,UK
+E1316,"Fred, Reynolds",1,E102,11/11/2012,22.2,PU_MAN,MAN,9/17/2014,1-Sep-14,12,Operations,Resigned,Personal Reasons,France
+E1317,"Fred, Lithgow",1,E1052,11/28/2011,27.8,PU_CLERK,CLERK,3/20/2014,1-Mar-14,4,Operations,Resigned,Compensation,Italy
+E1318,"George, Adjani",1,E1052,3/29/2012,22.7,PU_CLERK,CLERK,2/18/2014,1-Feb-14,4,Operations,Resigned,Personal Reasons,France
+E1319,"Irene, Laughton",1,E1052,1/20/2013,24.2,PU_CLERK,CLERK,1/26/2015,1-Jan-15,5,Operations,Resigned,Personal Reasons,UK
+E1320,"Prem, Cardinale",1,E1052,11/29/2011,29.8,PU_CLERK,CLERK,5/21/2014,1-May-14,8,Operations,Resigned,Compensation,France
+E1321,"Prem, Walken",1,E1052,12/4/2011,29.8,PU_CLERK,CLERK,5/26/2014,1-May-14,9,Operations,Resigned,Compensation,Germany
+E1322,"Kyle, Schneider",1,E101,4/14/2010,41.3,ST_MAN,MAN,2/22/2015,1-Feb-15,9,Service,Resigned,Other,UK
+E1323,"Kyle, Martin",1,E101,10/20/2012,16.9,ST_MAN,MAN,3/18/2014,1-Mar-14,4,Service,Resigned,Career Progression,Germany
+E1324,"Meg, Derek",1,E1087,7/30/2013,16,SA_REP,REP,11/29/2014,1-Nov-14,14,Service,Resigned,Personal Reasons,Germany
+E1326,"Prem, Garcia",1,E101,7/17/2013,20.4,ST_MAN,MAN,3/27/2015,1-Mar-15,13,Sales,Resigned,Compensation,UK
+E1327,"Bo, Hitchcock",1,E1058,6/2/2008,46.4,ST_CLERK,CLERK,1/14/2014,1-Jan-14,3,Sales,Retirement,Other,France
+E1328,"Bob, McCarthy",1,E1058,1/7/2013,25.6,ST_CLERK,CLERK,2/22/2015,1-Feb-15,9,Sales,Resigned,Compensation,UK
+E1329,"Dom, McQueen",1,E1058,10/15/2012,16,ST_CLERK,CLERK,2/14/2014,1-Feb-14,3,Sales,Resigned,Career Progression,Italy
+E1330,"Dom, Hoskins",1,E1058,4/26/2013,19.8,ST_CLERK,CLERK,12/17/2014,1-Dec-14,12,Sales,Resigned,Compensation,Italy
+E1331,"Don, Siegel",1,E1059,10/4/2011,27,ST_CLERK,CLERK,1/2/2014,1-Jan-14,1,Sales,Resigned,Other,Germany
+E1332,"Gvtz, Bradford",1,E1059,12/7/2012,19.6,ST_CLERK,CLERK,7/24/2014,1-Jul-14,9,Sales,Resigned,Compensation,France
+E1333,"Holly, Kurosawa",1,E1059,8/5/2012,29.8,ST_CLERK,CLERK,1/25/2015,1-Jan-15,5,Sales,Resigned,Policy Issues,UK
+E1334,"Rob, MacLaine",1,E1084,8/19/2013,16.2,SA_REP,REP,12/25/2014,1-Dec-14,13,Service,Resigned,Career Progression,Spain
+E1335,"Don, Barkin",1,E1060,5/9/2012,24.4,ST_CLERK,CLERK,5/21/2014,1-May-14,8,Sales,Resigned,Personal Reasons,Italy
+E1336,"Kurt, Danson",1,E1060,9/20/2013,16.9,ST_CLERK,CLERK,2/16/2015,1-Feb-15,8,Sales,Retirement,Compensation,UK
+E1337,"Kurt, Heard",1,E1060,6/29/2012,20,ST_CLERK,CLERK,2/27/2014,1-Feb-14,5,Service,Resigned,Personal Reasons,Spain
+E1338,"Glenda, Dunaway",1,E1060,1/17/2014,14.2,ST_CLERK,CLERK,3/25/2015,1-Mar-15,13,Sales,Resigned,Other,UK
+E1339,"Glenda, Bates",1,E1061,9/21/2010,36.3,ST_CLERK,CLERK,1/22/2015,1-Jan-15,4,Sales,Resigned,Other,UK
+E1340,"Goetz, Falk",1,E1061,9/21/2010,34.9,ST_CLERK,CLERK,10/17/2014,1-Oct-14,12,Sales,Retirement,Planned End,Italy
+E1341,"Hal, Olin",1,E1061,5/12/2012,23.6,ST_CLERK,CLERK,4/30/2014,1-Apr-14,5,Sales,Resigned,Personal Reasons,France
+E1342,"Hannah, Kanth",1,E1061,3/5/2013,23.6,ST_CLERK,CLERK,2/21/2015,1-Feb-15,8,Sales,Resigned,Career Progression,UK
+E1343,"Hannah, Field",1,E1062,4/9/2013,20.7,ST_CLERK,CLERK,12/27/2014,1-Dec-14,13,Sales,Resigned,Policy Issues,Spain
+E1344,"Margret, Powell",1,E1062,8/13/2012,23.3,ST_CLERK,CLERK,7/23/2014,1-Jul-14,9,Sales,Resigned,Other,Spain
+E1345,"Harry Mean, Taylor",1,E1062,1/27/2013,22.9,ST_CLERK,CLERK,12/25/2014,1-Dec-14,13,Sales,Resigned,Career Progression,Spain
+E1346,"Margrit, Garner",1,E1062,6/29/2012,29.8,ST_CLERK,CLERK,12/20/2014,1-Dec-14,12,Sales,Resigned,Compensation,Spain
+E1347,"Maria, Warden",1,E102,7/26/2012,18,SA_MAN,MAN,1/25/2014,1-Jan-14,5,Service,Resigned,Career Progression,France
+E1348,"Marilou, Landis",1,E102,12/15/2009,36.5,SA_MAN,MAN,6/23/2014,1-Jun-14,9,Service,Resigned,Other,Germany
+E1349,"Marilou, Chapman",1,E102,9/4/2012,22.4,SA_MAN,MAN,7/17/2014,1-Jul-14,8,Service,Resigned,Career Progression,Spain
+E1350,"Kathy, Lambert",1,E102,6/13/2012,26.7,SA_MAN,MAN,9/1/2014,1-Sep-14,10,Service,Resigned,Policy Issues,France
+E1351,"Helmut, Capshaw",1,E102,3/15/2012,22.4,SA_MAN,MAN,1/25/2014,1-Jan-14,5,Service,Resigned,Career Progression,Italy
+E1352,"Keir, George",1,E1083,6/27/2013,18.9,SA_REP,REP,1/22/2015,1-Jan-15,4,Service,Resigned,Career Progression,UK
+E1353,"Marlon, Laughton",1,E1083,7/15/2013,19.3,SA_REP,REP,2/22/2015,1-Feb-15,9,Service,Resigned,Personal Reasons,UK
+E1354,"Keir, Chandar",1,E1083,11/9/2013,16.4,SA_REP,REP,3/22/2015,1-Mar-15,13,Service,Resigned,Career Progression,UK
+E1355,"Marlon, Godard",1,E1083,10/15/2013,13.3,SA_REP,REP,11/24/2014,1-Nov-14,13,Service,Resigned,Personal Reasons,Spain
+E1356,"Keir, Weaver",1,E1083,11/14/2012,28.4,SA_REP,REP,3/25/2015,1-Mar-15,13,Service,Resigned,Compensation,UK
+E1357,"Marlon, Clapton",1,E1083,7/14/2012,32.1,SA_REP,REP,3/15/2015,1-Mar-15,12,Sales,Resigned,Compensation,UK
+E1358,"Kelly, Quinlan",1,E1084,4/12/2012,26.4,SA_REP,REP,6/22/2014,1-Jun-14,9,Service,Resigned,Compensation,Spain
+E1360,"Ken, Glenn",1,E1084,9/5/2007,58.3,SA_REP,REP,8/28/2014,1-Aug-14,9,Service,Resigned,Planned End,Germany
+E1361,"Ken, Chopra",1,E1084,9/17/2012,22,SA_REP,REP,7/18/2014,1-Jul-14,8,Service,Resigned,Career Progression,France
+E1362,"Ken, Wenders",1,E1084,9/27/2009,46.4,SA_REP,REP,2/17/2015,1-Feb-15,8,Service,Retirement,Other,UK
+E1363,"Kenneth, Redford",1,E1084,3/10/2013,21.3,SA_REP,REP,12/18/2014,1-Dec-14,12,Service,Resigned,Career Progression,France
+E1364,"Meg, Sen",1,E1085,7/23/2013,18,SA_REP,REP,1/22/2015,1-Jan-15,4,Service,Resigned,Career Progression,UK
+E1365,"Meryl, Holden",1,E1085,7/9/2013,14.4,SA_REP,REP,9/20/2014,1-Sep-14,12,Service,Resigned,Career Progression,Italy
+E1366,"Richard, Coppola",1,E1085,9/25/2012,27.8,SA_REP,REP,1/16/2015,1-Jan-15,3,Sales,Resigned,Compensation,UK
+E1367,"Richard, Winters",1,E1085,10/2/2008,52.2,SA_REP,REP,1/23/2015,1-Jan-15,4,Sales,Involuntary Termination,Other,UK
+E1368,"Rick, Romero",1,E1085,4/20/2009,50.2,SA_REP,REP,3/16/2015,1-Mar-15,12,Service,Resigned,Other,UK
+E1369,"Rick, Lyon",1,E1085,2/20/2012,33,SA_REP,REP,11/17/2014,1-Nov-14,12,Service,Resigned,Compensation,Italy
+E1370,"Ridley, Hackman",1,E1086,7/22/2013,20,SA_REP,REP,3/22/2015,1-Mar-15,13,Service,Resigned,Career Progression,UK
+E1371,"Ridley, Coyote",1,E1086,3/2/2008,56.8,SA_REP,REP,3/21/2015,1-Mar-15,12,Service,Resigned,Planned End,UK
+E1372,"Ridley, Young",1,E1086,2/18/2013,24.4,SA_REP,REP,2/27/2015,1-Feb-15,9,Service,Resigned,Compensation,UK
+E1373,"Rob, Russell",1,E1086,1/3/2012,24.9,SA_REP,REP,1/27/2014,1-Jan-14,5,Service,Resigned,Compensation,Germany
+E1374,"Robert, Niro",1,E1086,4/8/2012,22.9,SA_REP,REP,3/3/2014,1-Mar-14,5,Service,Resigned,Compensation,Germany
+E1376,"Rodolfo, Hershey",1,E1087,5/13/2013,21.6,SA_REP,REP,3/1/2015,1-Mar-15,10,Service,Resigned,Career Progression,UK
+E1377,"Rodolfo, Dench",1,E1087,10/2/2012,23.3,SA_REP,REP,9/11/2014,1-Sep-14,11,Sales,Resigned,Career Progression,France
+E1378,"Rodolfo, Altman",1,E1087,7/14/2010,37.2,SA_REP,REP,3/21/2015,1-Mar-15,12,Service,Involuntary Termination,Policy Issues,UK
+E1379,"Roger, Mastroianni",1,E1087,3/22/2013,24,SA_REP,REP,3/19/2015,1-Mar-15,12,Service,Resigned,Compensation,UK
+E1380,"Rolf, Ashby",1,E1087,3/2/2012,23.8,SA_REP,REP,2/22/2014,1-Feb-14,4,Service,Resigned,Compensation,Germany
+E1381,"Romy, Sharif",1,E1087,10/15/2011,28.2,SA_REP,REP,2/16/2014,1-Feb-14,3,Service,Resigned,Compensation,France
+E1382,"Romy, McCarthy",1,E1058,3/13/2013,21.3,SH_CLERK,CLERK,12/21/2014,1-Dec-14,12,Sales,Retirement,Compensation,France
+E1383,"Rosanne, Hopkins",1,E1058,1/12/2013,23.3,SH_CLERK,CLERK,12/22/2014,1-Dec-14,13,Sales,Resigned,Personal Reasons,Italy
+E1384,"Rosanne, Douglas",1,E1058,10/7/2011,27.8,SH_CLERK,CLERK,1/27/2014,1-Jan-14,5,Sales,Resigned,Compensation,Germany
+E1385,"Rosanne, Baldwin",1,E1086,7/13/2013,17.1,SA_REP,REP,12/15/2014,1-Dec-14,12,Service,Resigned,Career Progression,Italy
+E1386,"Roxanne, Shepherd",1,E1059,10/17/2012,28.4,SH_CLERK,CLERK,2/25/2015,1-Feb-15,9,Sales,Resigned,Compensation,UK
+E1387,"Roxanne, Michalkow",1,E1059,5/17/2013,22.2,SH_CLERK,CLERK,3/21/2015,1-Mar-15,12,Sales,Resigned,Compensation,UK
+E1388,"Roy, Hulce",1,E1084,2/16/2008,51,SA_REP,REP,1/2/2014,1-Jan-14,1,Service,Retirement,Other,Italy
+E1389,"Roy, Dunaway",1,E1059,2/4/2013,20.4,SH_CLERK,CLERK,10/15/2014,1-Oct-14,12,Sales,Resigned,Compensation,France
+E1390,"Roy, Bates",1,E1060,6/18/2008,51.4,SH_CLERK,CLERK,5/23/2014,1-May-14,9,Sales,Retirement,Policy Issues,Spain
+E1391,"Rufus, Dvrrie",1,E1085,5/1/2012,20.9,SA_REP,REP,1/24/2014,1-Jan-14,4,Service,Resigned,Compensation,Italy
+E1392,"Rufus, Belushi",1,E1086,11/19/2012,25.1,SA_REP,REP,12/20/2014,1-Dec-14,12,Service,Resigned,Compensation,France
+E1393,"Sally, Edwards",1,E1060,1/10/2011,34.3,SH_CLERK,CLERK,2/26/2015,1-Feb-15,9,Sales,Resigned,Other,UK
+E1394,"Constantin, Welles",1,E1061,5/16/2011,32.6,SH_CLERK,CLERK,3/20/2015,1-Mar-15,12,Sales,Resigned,Other,UK
+E1395,"Harrison, Pacino",1,E1061,10/30/2012,23.6,SH_CLERK,CLERK,10/18/2014,1-Oct-14,12,Sales,Resigned,Personal Reasons,Germany
+E1396,"Manisha, Taylor",1,E1083,11/10/2012,20.4,SA_REP,REP,7/21/2014,1-Jul-14,8,Service,Resigned,Compensation,Germany
+E1397,"Harrison, Sutherland",1,E1061,7/27/2012,31.8,SH_CLERK,CLERK,3/19/2015,1-Mar-15,12,Sales,Resigned,Compensation,UK
+E1398,"Matthias, MacGraw",1,E1062,11/24/2012,28,SH_CLERK,CLERK,3/23/2015,1-Mar-15,13,Sales,Resigned,Policy Issues,UK
+E1399,"Matthias, Hannah",1,E1084,10/7/2012,20.4,SA_REP,REP,6/20/2014,1-Jun-14,8,Service,Resigned,Career Progression,Spain
+E1400,"Matthias, Cruise",1,E1062,11/20/2012,20.2,SH_CLERK,CLERK,7/25/2014,1-Jul-14,9,Sales,Resigned,Policy Issues,Italy
+E1402,"Christian, Cage",1,E103,8/14/2012,20,AD_ASST,ASST,4/12/2014,1-Apr-14,3,Finance & Admin,Resigned,Policy Issues,Germany
+E1404,"Charlie, Pacino",1,E1139,8/19/2012,18,MK_REP,REP,2/18/2014,1-Feb-14,4,Marketing,Resigned,Personal Reasons,France
+E1406,"Daniel, Costner",1,E103,5/26/2012,22,PR_REP,REP,3/26/2014,1-Mar-14,5,Marketing,Resigned,Other,France
+E1407,"Dianne, Derek",1,E103,11/7/2012,21.6,AC_MGR,MGR,8/26/2014,1-Aug-14,9,Finance & Admin,Resigned,Other,Germany
+E1408,"Geraldine, Schneider",1,E1143,6/22/2012,24.9,AC_ACCOUNT,ACCOUNT,7/17/2014,1-Jul-14,8,Finance & Admin,Resigned,Compensation,France
+E1411,"Maurice, Mahoney",1,E102,11/22/2012,27.8,SA_MAN,MAN,3/15/2015,1-Mar-15,12,Service,Resigned,Compensation,UK
+E1416,"Elizabeth, Brown",1,E1083,5/19/2013,22,SA_REP,REP,3/19/2015,1-Mar-15,12,Service,Resigned,Personal Reasons,UK
+E1427,"Sissy, Puri",1,E1085,12/27/2012,20.9,SA_REP,REP,9/24/2014,1-Sep-14,13,Service,Resigned,Career Progression,France
+E1429,"Sissy, Warden",1,E1085,10/18/2009,38.9,SA_REP,REP,6/17/2014,1-Jun-14,8,Service,Resigned,Other,France
+E1430,"Elia, Brando",1,E1085,8/7/2012,16.9,SA_REP,REP,1/3/2014,1-Jan-14,1,Service,Resigned,Career Progression,Spain
+E1431,"Mani, Fonda",1,E1086,11/11/2013,14.2,SA_REP,REP,1/17/2015,1-Jan-15,3,Sales,Resigned,Personal Reasons,UK
+E1432,"Placido, Kubrick",1,E1086,5/11/2012,24.4,SA_REP,REP,5/21/2014,1-May-14,8,Service,Resigned,Policy Issues,France
+E1433,"Claudia, Kurosawa",1,E1086,8/11/2012,28.2,SA_REP,REP,12/14/2014,1-Dec-14,11,Sales,Resigned,Compensation,Spain
+E1434,"Maximilian, Henner",1,E1086,3/22/2013,18,SA_REP,REP,9/21/2014,1-Sep-14,12,Service,Resigned,Career Progression,Spain
+E1435,"Sachin, Spielberg",1,E1086,1/24/2009,47.4,SA_REP,REP,3/15/2015,1-Mar-15,12,Service,Resigned,Policy Issues,UK
+E1436,"Sachin, Neeson",1,E1086,3/9/2013,14.4,SA_REP,REP,5/21/2014,1-May-14,8,Service,Resigned,Personal Reasons,France
+E1437,"Sivaji, Landis",1,E1087,6/6/2013,18.4,SA_REP,REP,12/18/2014,1-Dec-14,12,Service,Resigned,Personal Reasons,Italy
+E1438,"Mammutti, Pacino",1,E1087,1/18/2010,44.5,SA_REP,REP,3/26/2015,1-Mar-15,13,Service,Resigned,Other,UK
+E1439,"Elia, Fawcett",1,E1087,10/20/2012,28.4,SA_REP,REP,2/28/2015,1-Feb-15,9,Sales,Resigned,Policy Issues,UK
+E1440,"Scott, Jordan",1,E1087,10/30/2008,49.2,SA_REP,REP,12/23/2014,1-Dec-14,13,Service,Resigned,Policy Issues,France
+E1441,"Shammi, Pacino",1,E1087,4/20/2013,22,SA_REP,REP,2/17/2015,1-Feb-15,8,Sales,Resigned,Career Progression,UK
+E1442,"Sharmila, Kazan",1,E1087,9/6/2008,44.4,SA_REP,REP,6/24/2014,1-Jun-14,9,Service,Resigned,Planned End,Italy
+E147,"John, Russell",1,E102,9/15/2013,14.4,SA_MAN,MAN,11/27/2014,1-Nov-14,13,Service,Resigned,Career Progression,Germany
+E259,"Elizabeth, Howard",1,E251,6/10/2013,15.1,SA_REP,REP,9/13/2014,1-Sep-14,11,Service,Resigned,Career Progression,Italy
+E262,"Billy, Williams",1,E252,2/25/2013,16.9,SA_REP,REP,7/24/2014,1-Jul-14,9,Service,Resigned,Career Progression,Italy
+E334,"Harmon, Crichton",1,E101,4/13/2013,17.1,ST_MAN,MAN,9/15/2014,1-Sep-14,12,Service,Resigned,Career Progression,France
+E384,"Doreen, Arwood",1,E359,9/20/2013,17.8,SA_MAN,MAN,3/15/2015,1-Mar-15,12,Service,Resigned,Career Progression,UK
+E435,"Fredricka, Samuelson",1,E101,7/13/2013,14.7,ST_MAN,MAN,10/3/2014,1-Oct-14,10,Service,Resigned,Career Progression,France
+E474,"Moriah, Cooper",1,E460,9/29/2013,16,SA_REP,REP,1/28/2015,1-Jan-15,5,Service,Resigned,Career Progression,UK
+E538,"Mara, Baer",1,E101,8/24/2012,16.7,ST_MAN,MAN,1/14/2014,1-Jan-14,3,Service,Resigned,Career Progression,Italy
+E678,"Robert, Sandstrum",1,E668,10/17/2012,17.3,SA_REP,REP,3/27/2014,1-Mar-14,5,Service,Resigned,Career Progression,Spain
+E679,"Meredith, Kane",1,E668,3/26/2013,17.3,SA_REP,REP,9/3/2014,1-Sep-14,10,Service,Resigned,Career Progression,Germany
+E784,"Colman, Stiller",1,E772,11/7/2013,16.7,SA_REP,REP,3/30/2015,1-Mar-15,14,Service,Resigned,Career Progression,UK
+E794,"Harold, Farley",1,E774,8/10/2013,17.3,SA_REP,REP,1/18/2015,1-Jan-15,4,Service,Resigned,Career Progression,UK
+E798,"Wadswworth, White",1,E774,9/2/2012,17.6,SA_REP,REP,2/20/2014,1-Feb-14,4,Service,Resigned,Career Progression,Germany
+E802,"Winchell, Kitts",1,E775,3/28/2013,16.7,SA_REP,REP,8/18/2014,1-Aug-14,8,Service,Resigned,Career Progression,France
+E803,"Paine, Kuhler",1,E775,8/17/2013,16,SA_REP,REP,12/17/2014,1-Dec-14,12,Service,Resigned,Career Progression,Germany
+E853,"Sinclair, Minnever",1,E101,6/3/2013,14.7,ST_MAN,MAN,8/24/2014,1-Aug-14,9,Service,Resigned,Career Progression,Italy
+E878,"Fredie, Elgin",1,E102,5/11/2012,25.3,SA_MAN,MAN,6/20/2014,1-Jun-14,8,Service,Resigned,Career Progression,Italy
